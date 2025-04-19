@@ -1,1 +1,1 @@
-# 8-bit-ALU-Simulation-Project
+Here you will find all the necessary information and the full implementation of the 8-bit ALU Simulation Project required for the Digital Computers course. The aim of this project is to perform 4 arithmetic operations: Addition, Subtraction, Multiplication and Division. To achieve this, we designed a Control Unit that connects the Arithmetic Logic Unit (ALU) with the registers used in the operations. Together with my teammates, we succesfully completed this project in 5 weeks.
